@@ -32,17 +32,17 @@ Here you will find some examples that demonstrate:
 
 Clone this repository:
 
-    ```sh
-    git clone https://github.com/thanhlamctk33/nab_automation_test.git
-    ```
+```sh
+git clone https://github.com/thanhlamctk33/nab_automation_test.git
+```
 
 
 ## Usage
 Run Command:
 
-    ```sh
-    testcafe  chrome .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
-    ```
+```sh
+testcafe  chrome .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
+```
     
 To run all tests in  Firefox, Safari and IE
 
