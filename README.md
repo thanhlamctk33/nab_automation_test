@@ -2,7 +2,7 @@
 
 Here you will find some examples that demonstrate:
 
-    - Search weather in your city"
+    - Search weather in your city
  
 ## Environment Setting Up
 
