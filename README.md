@@ -59,4 +59,4 @@ You can also run on headless mode:
 testcafe  chrome:headless .\TestScript\search_city_page_test.js -e   
 ```
 
-For Manual test cases you can find ino folder _"ManualTestCase\TestCases"_
+For Manual test cases you can find into folder _"ManualTestCase\TestCases"_
