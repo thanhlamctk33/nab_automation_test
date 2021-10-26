@@ -36,13 +36,13 @@ Clone this repository:
     git clone https://github.com/thanhlamctk33/nab_automation_test.git
     ```
 
-    ```
 
 ## Usage
 Run Command:
 
     ```sh
     testcafe  chrome .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
+    ```
     
 To run all tests in  Firefox, Safari and IE
 
