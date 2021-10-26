@@ -30,20 +30,20 @@ Here you will find some examples that demonstrate:
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
 
     ```sh
     git clone https://github.com/thanhlamctk33/nab_automation_test.git
     ```
 
-2. Run Command:
+    ```
+
+## Usage
+Run Command:
 
     ```sh
     testcafe  chrome .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
-    ```
-
-## Usage Firfox, Safari
-
+    
 To run all tests in  Firefox, Safari and IE
 
 ```sh
