@@ -42,9 +42,9 @@ Here you will find some examples that demonstrate:
     testcafe  chrome .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
     ```
 
-## Usage
+## Usage Firfox, Safari
 
-Use the `npm test` script to run all tests in Chrome  Firefox, Safari and IE
+To run all tests in  Firefox, Safari and IE
 
 ```sh
 testcafe  firefox .\TestScript\search_city_page_test.js -e  -r xunit:result.xml
