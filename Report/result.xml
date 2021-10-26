@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite name="TestCafe Tests: Chrome 94.0.4606.81 / Windows 10" tests="1" failures="0" skipped="0" errors="0" time="19.266" timestamp="Tue, 26 Oct 2021 15:27:52 GMT" >
+  <testcase classname="Open Weather Map" name="Search City Page Test" time="19.256">
+  </testcase>
+</testsuite>

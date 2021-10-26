@@ -1,0 +1,9 @@
+PS F:\testcafe\aspire_project_qa_test> testcafe chrome .\TestScript\search_city_page_test.js
+ Running tests in:
+ - Chrome 94.0.4606.81 / Windows 10
+
+ Open Weather Map
+ √ Search City Page Test
+
+
+ 1 passed (20s)
