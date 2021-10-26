@@ -33,7 +33,7 @@ Here you will find some examples that demonstrate:
 1. Clone this repository:
 
     ```sh
-    git clone https://github.com/thanhlamctk33/QATest.git
+    git clone https://github.com/thanhlamctk33/nab_automation_test.git
     ```
 
 2. Run Command:
