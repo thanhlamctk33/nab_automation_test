@@ -1,4 +1,4 @@
-# Test QA Project
+# NAB Automation Test Project
 
 Here you will find some examples that demonstrate:
 
